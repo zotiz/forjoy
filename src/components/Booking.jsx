@@ -16,11 +16,11 @@ const Booking = () => {
         <div className='flex gap-2 w-full flex-col xs:flex-row'>
           <div className='flex flex-col   w-full lg:max-w-[250px] my-2 '>
             <label htmlFor="">Check-In</label>
-            <input className='border rounded-md p-2' type="date" />
+            <input className='border rounded-md p-2 w-full' type="date" />
           </div>
           <div className='flex flex-col   w-full lg:max-w-[250px] my-2 '>
             <label htmlFor="checkout">Check-Out</label>
-            <input type="date" className='rounded-md p-2 border ' />
+            <input type="date" className='rounded-md p-2 border w-full' />
           </div> 
         </div>
          <div className='flex w-full flex-col my-2 '>
