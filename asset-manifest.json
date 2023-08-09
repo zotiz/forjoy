@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forjoy/static/css/main.4a27e98c.css",
+    "main.js": "/forjoy/static/js/main.04f7735f.js",
+    "index.html": "/forjoy/index.html",
+    "main.4a27e98c.css.map": "/forjoy/static/css/main.4a27e98c.css.map",
+    "main.04f7735f.js.map": "/forjoy/static/js/main.04f7735f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a27e98c.css",
+    "static/js/main.04f7735f.js"
+  ]
+}
